@@ -1,5 +1,5 @@
 
-ItisArshia&IamMe := {\n
+ItisArshia&IamMe := {
 	"name":            "Arshia",
 	"profession":      "Software Engineer",
 	"location":        "Iran",
