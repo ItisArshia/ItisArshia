@@ -15,7 +15,7 @@ ItisArshia&IamMe := {
 	"tools":           []string{"Docker", "Git", "Azure DevOps"},
 	"systems":         "Windows",
 	"hobbies"          []string{"Driving", "Gym"},
-        "contact"          "EveryWhere/@ItisAeshia",
+        "contact"          "EveryWhere/@ItisArshia",
         "linkdin"          "https://www.linkedin.com/in/arshia-donyabin-7a9735204/",
 	
 }
