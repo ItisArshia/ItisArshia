@@ -1,5 +1,5 @@
 
-ItisArshia&IamMe := {
+ItisArshia&IamMe = {
 ---
 
 	"name":            "Arshia",
